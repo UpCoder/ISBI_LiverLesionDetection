@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ee69d084-5244-43f1-9134-41f1f4f5c6d1" name="ISBI_Detection_PixelLink" url="http://10.214.161.183">
+        <fileTransfer host="10.214.161.183" port="22" rootFolder="/home/give/PycharmProjects/ISBI_Detection" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" shareSSLContext="true" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
